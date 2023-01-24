@@ -1,3 +1,8 @@
+.DS_Store
+src/config.json
+.webpack/
+out/
+
 # Logs
 logs
 *.log
